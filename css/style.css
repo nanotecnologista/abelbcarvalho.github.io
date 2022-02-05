@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body {
+    background: url('/photo/wallpaper.PNG');
+}
+.fontwhite {
+    color: #ffffff;
+}
+.fontblack {
+    color: #000000;
+}
+.fontblue {
+    color: #005aad;
+}
+.fontred {
+    color: #de0000;
+}
+.hovergold:hover {
+    color: #ffca00;
+}
+.bhoverblue:hover {
+    background: #005aad;
+    padding: 10px;
+}
+.bhoverred:hover {
+    background: #de0000;
+    padding: 10px;
+}
+.bphotohover:hover {
+    background: #ffca00;
+}
+.hoverwhite:hover {
+    color: #ffffff;
+}
+.hoverblue:hover {
+    color: #005aad;
+}
+.hoverred:hover {
+    color: #de0000;
+}
+#MainMenu {
+    background: #ffffff;
+    font-family: 'Rowdies', cursive;
+    font-size: 14px;
+}
+#Intro {
+    height: 250px; position: relative;
+}
+.displayflex {
+    display: flex;
+}
+.divsize {
+    width: 50%;
+}
+.menuitem {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 2em;
+}
+/*coluna, linha*/
+.coluna {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 25px;
+}
+.linha {
+    font-size: 14px;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.paragraph {
+    font-size: 30px;
+    text-align: justify;
+}
+.fontfamily {
+    font-family: 'Rowdies', cursive;
+}
+.image {
+    width: 100%;
+    height: 100%;
+}
+.backb {
+    background: #005aad;
+}
+.backr {
+    background: #de0000;
+}
+.backgl {
+    background: #ffca00;
+}
+.backw {
+    background: #ffffff;
+}
+.margin-10 {
+    margin-top: 10px;
+}
